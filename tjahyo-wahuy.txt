@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 khumay
 tjoro
+=======
+tjoro
+khumay
+>>>>>>> b5fa8071b27c5bdc98d0ee0bcc7ada2edfb17c1f

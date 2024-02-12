@@ -1,7 +1,15 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 wahuy
 tjahyo
 =======
 tjahyo
 wahuy
 >>>>>>> origin/tjahyo
+=======
+tjahyo
+wahuy
+
+wahuy
+tjahyo
+>>>>>>> b5fa8071b27c5bdc98d0ee0bcc7ada2edfb17c1f
