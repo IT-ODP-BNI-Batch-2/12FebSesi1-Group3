@@ -12,4 +12,10 @@ wahuy
 
 wahuy
 tjahyo
+<<<<<<< HEAD
 >>>>>>> b5fa8071b27c5bdc98d0ee0bcc7ada2edfb17c1f
+=======
+
+
+wiw
+>>>>>>> 90f03eb82799fccab0503ce7d4ec79178608743a
