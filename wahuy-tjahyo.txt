@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 wahuy
 tjahyo
+=======
+tjahyo
+wahuy
+>>>>>>> origin/tjahyo
